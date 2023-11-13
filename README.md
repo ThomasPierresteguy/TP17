@@ -6,11 +6,12 @@ Instalacion:
 
 Encender el servidor
 1. Abrir xampp y prender "Apache" y "MySQL"
-2. importar el archivo "tp17.sql"
-3. Agregar una columna al inicio de todo con nombre "id", tildar la casilla AI (autoincrement)
-4. En visual Abrir una terminar
-5. Escribir "cd Database"
-6. Escribir "node dbFunctions.js"
+2. crear una db con nombre "tp17"
+3. importar el archivo "tp17.sql"
+4. Agregar una columna al inicio de todo con nombre "id", tildar la casilla AI (autoincrement)
+5. En visual Abrir una terminar
+6. Escribir "cd Database"
+7. Escribir "node dbFunctions.js"
 
 Encender el cliente
 1. Abrir una terminal
